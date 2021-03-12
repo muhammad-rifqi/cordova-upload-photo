@@ -10,3 +10,5 @@ if the photo doesn't go to the server, add this code
 in config.xml file.
 
 in this case we use : cordova plugin add cordova-plugin-camera plugin
+
+for specification, use cordova 9.0
